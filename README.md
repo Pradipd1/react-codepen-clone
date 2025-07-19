@@ -23,7 +23,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to use your 
 
 ## Deployment
 
-Deploy easily on **Vercel, Netlify, or GitHub Pages** to make your editor accessible online.
+## 🚀 Live Demo
+
+Check out the live demo [here](https://react-codepen-clone-5y1v-git-main-pradip-dhakals-projects.vercel.app).
+
 
 ## License
 
@@ -31,5 +34,4 @@ MIT
 
 ---
 
-✨ Feel free to fork and customize this project to deepen your React skills while building useful projects!
-```
+
