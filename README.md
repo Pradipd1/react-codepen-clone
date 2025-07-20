@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to use your 
 
 ## 🚀 Live Demo
 
-Check out the live demo [here](https://react-codepen-clone-5y1v-git-main-pradip-dhakals-projects.vercel.app).
+Check out the live demo [here] (mycodepen-clone.vercel.app)
 
 
 ## License
