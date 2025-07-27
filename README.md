@@ -19,6 +19,14 @@ cd react-codepen-clone
 npm install
 npm start
 ```
+## 🖼️ Demo Screenshots
+
+### 📝 Code Editor Interface
+![Editor Demo](./screenshots/editor_demo.png)
+
+### 📤 Output Preview
+![Output Demo](./screenshots/output_demo.png)
+
 
 ## Deployment
 
