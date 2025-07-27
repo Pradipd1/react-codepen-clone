@@ -32,7 +32,7 @@ npm start
 
 ## 🚀 Live Demo
 
-Check out the live demo: mycodepen-clone.vercel.app
+Check out the live demo: https://mycodepen-clone.vercel.app
 
 
 ## License
